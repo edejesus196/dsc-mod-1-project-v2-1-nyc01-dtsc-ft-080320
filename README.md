@@ -38,4 +38,4 @@ I used the panda’s library to clean data, removing null values and merging dif
 
 I used Plotly's libraries to help visualize the information I had gathered with the data. I also created appealing plots with a consistent theme for the presentation.
 
-Link to pdf slides: [blue_text](https://drive.google.com/file/d/1imRRrwBnt78CSwnmIpuQZSVq77yI-7Xf/view?usp=sharing)
+Link to pdf slides: [Click Here](https://drive.google.com/file/d/1imRRrwBnt78CSwnmIpuQZSVq77yI-7Xf/view?usp=sharing)
